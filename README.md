@@ -1,6 +1,7 @@
 # Minesweeper
-https://en.wikipedia.org/wiki/Minesweeper_(video_game)  
 Classic Minesweeper game
+https://en.wikipedia.org/wiki/Minesweeper_(video_game)  
+
 
 ### How to run  
 Simply run the main.py file :
