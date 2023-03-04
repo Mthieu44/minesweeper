@@ -1,5 +1,5 @@
 # Minesweeper
-https://en.wikipedia.org/wiki/Minesweeper_(video_game)
+https://en.wikipedia.org/wiki/Minesweeper_(video_game)  
 Classic Minesweeper game
 
 ### How to run  
@@ -14,6 +14,6 @@ pip install pygame
 
 
 ### How to play
-Select a grid size, the mine density, and start playing.
-The game has a solver, press h to play automatically.
+Select a grid size, the mine density, and start playing.  
+The game has a solver, press h to play automatically.  
 You can also press i to show the probability of a square to have a mine. Hide it with o.
